@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elusive7733&label=Profile%20views&color=0e75b6&style=flat" alt="elusive7733" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elusive7733" alt="elusive7733" /></a> </p>
-
 - 🔭 I’m currently working on [UpAutomate](https://upautomate.bleedai.com/)
 
 - 👨‍💻 All of my projects are available at [abdullahraheel.tech](abdullahraheel.tech)
