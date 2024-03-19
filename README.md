@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Raheel</h1>
-<h3 align="center">A seasoned Software Engineer with a passion for AI. I specialize in writing high quality code with a focus on performance, scalability, and best practices. I relish diving deep into system design and architecture.</h3>
+<h3 align="center">A seasoned Software Engineer with a passion for AI. I specialize in writing high-quality code focusing on performance, scalability, and best practices. I relish diving deep into system design and architecture.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elusive7733&label=Profile%20views&color=0e75b6&style=flat" alt="elusive7733" /> </p>
 
