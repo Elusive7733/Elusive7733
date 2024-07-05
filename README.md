@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [UpAutomate](https://upautomate.bleedai.com/)
 
-- 👨‍💻 All of my projects are available at [abdullahraheel.tech](abdullahraheel.tech)
+- 👨‍💻 All of my projects are available at [abdullahraheel.com](abdullahraheel.com)
 
 - 📝 I regularly write articles on [medium.com/@abdullaharaheel](medium.com/@abdullaharaheel)
 
