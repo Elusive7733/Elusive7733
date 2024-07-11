@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elusive7733&label=Profile%20views&color=0e75b6&style=flat" alt="elusive7733" /> </p>
 
-- 🔭 I’m currently working on [UpAutomate](https://upautomate.bleedai.com/)
+- 🔭 I’m currently working on [UpAutomate](https://upautomate.ai/)
 
 - 👨‍💻 All of my projects are available at [abdullahraheel.com](abdullahraheel.com)
 
