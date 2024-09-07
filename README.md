@@ -35,10 +35,10 @@
    <img align="center" alt="Logo do Nestjs" height="30" width="40" title="Nestjs" src="./img/nestjs.svg">
    <img align="center" alt="Logo do Docker" height="30" width="40" title="Docker" src="./img/docker.svg">
    <img align="center" alt="Logo do MongoDb" height="30" width="40" title="MongoDb" src="./img/mongodb.svg">
+   <img align="center" alt="Logo do Redis" height="30" width="40" title="Redis" src="./img/redis.svg">
    <img align="center" alt="Logo do Firebase" height="30" width="40" title="Firebase" src="./img/firebase.svg">
    <img align="center" alt="Logo do GCP" height="30" width="40" title="Google Cloud Platform" src="./img/gcp.svg">
    <img align="center" alt="Logo do AWS" height="30" width="40" title="AWS" src="./img/aws.svg">
-   <img align="center" alt="Logo do Redis" height="30" width="40" title="Redis" src="./img/redis.svg">
 
 
    
