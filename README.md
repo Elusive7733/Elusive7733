@@ -31,6 +31,7 @@
    <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="./img/css.svg">
    <img align="center" alt="Logo do Tailwind" height="30" width="40" title="Tailwind" src="./img/tailwind.svg">
    <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="./img/bootstrap.svg">
+   <img align="center" alt="Logo do Material" height="30" width="40" title="Material UI" src="./img/material.svg">
    
    <br>
    <br>
