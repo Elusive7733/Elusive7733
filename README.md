@@ -17,21 +17,30 @@
    <br>
    <br>
    
+   <img align="center" alt="Logo do React" height="30" width="40" title="React" src="./img/react.svg">
+   <img align="center" alt="Logo do Nextjs" height="30" width="40" title="Nextjs" src="./img/nextjs.svg">
    <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="./img/ts.svg">
    <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="./img/js.svg">
-   <img align="center" alt="Logo do Nextjs" height="30" width="40" title="Nextjs" src="./img/nextjs.svg">
-   <img align="center" alt="Logo do React" height="30" width="40" title="React" src="./img/react.svg">
-   <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="./img/node.svg">
-   <img align="center" alt="Logo do Nestjs" height="30" width="40" title="Nestjs" src="./img/nestjs.svg">
-
-
-   <br>
-   <br>
+   <img align="center" alt="Logo do Google Maps" height="30" width="40" title="Google Maps" src="./img/maps.svg">
    <img align="center" alt="Logo do HTML5" height="30" width="40" title="HTML5" src="./img/html.svg">
    <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="./img/css.svg">
    <img align="center" alt="Logo do Tailwind" height="30" width="40" title="Tailwind" src="./img/tailwind.svg">
    <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="./img/bootstrap.svg">
    <img align="center" alt="Logo do Material" height="30" width="40" title="Material UI" src="./img/material.svg">
+
+
+   <br>
+   <br>
+   <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="./img/node.svg">
+   <img align="center" alt="Logo do Nestjs" height="30" width="40" title="Nestjs" src="./img/nestjs.svg">
+   <img align="center" alt="Logo do Docker" height="30" width="40" title="Docker" src="./img/docker.svg">
+   <img align="center" alt="Logo do MongoDb" height="30" width="40" title="MongoDb" src="./img/mongodb.svg">
+   <img align="center" alt="Logo do Firebase" height="30" width="40" title="Firebase" src="./img/firebase.svg">
+   <img align="center" alt="Logo do GCP" height="30" width="40" title="Google Cloud Platform" src="./img/gcp.svg">
+   <img align="center" alt="Logo do AWS" height="30" width="40" title="AWS" src="./img/aws.svg">
+   <img align="center" alt="Logo do Redis" height="30" width="40" title="Redis" src="./img/redis.svg">
+
+
    
    <br>
    <br>
