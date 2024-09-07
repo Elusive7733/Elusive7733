@@ -19,6 +19,8 @@
    
    <img align="center" alt="Logo do React" height="30" width="40" title="React" src="./img/react.svg">
    <img align="center" alt="Logo do Nextjs" height="30" width="40" title="Nextjs" src="./img/nextjs.svg">
+   <img align="center" alt="Logo do Redux" height="30" width="40" title="Redux" src="./img/redux.svg">
+
    <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="./img/ts.svg">
    <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="./img/js.svg">
    <img align="center" alt="Logo do Google Maps" height="30" width="40" title="Google Maps" src="./img/maps.svg">
