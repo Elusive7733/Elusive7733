@@ -20,7 +20,7 @@
    <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="./img/ts.svg">
    <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="./img/js.svg">
    <img align="center" alt="Logo do Nextjs" height="30" width="40" title="Nextjs" src="./img/nextjs.svg">
-   <img align="center" alt="Logo do React" height="30" width="40" title="React" src="./img/nextjs.svg">
+   <img align="center" alt="Logo do React" height="30" width="40" title="React" src="./img/react.svg">
    <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="./img/node.svg">
    <img align="center" alt="Logo do Nestjs" height="30" width="40" title="Nestjs" src="./img/nestjs.svg">
 
