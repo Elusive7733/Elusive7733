@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="24" viewBox="0 0 125 24" role="img" aria-label="Mapbox WebGL">
+  <title>Mapbox WebGL</title>
+  <rect x="0.5" y="0.5" width="124" height="23" rx="4.5" fill="#161b22" stroke="#30363d" />
+  <image href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjOEM5NTlGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWFwYm94PC90aXRsZT48cGF0aCBkPSJNMTIgMEM1LjM3MiAwIDAgNS4zNzIgMCAxMnM1LjM3MiAxMiAxMiAxMiAxMi01LjM3MiAxMi0xMlMxOC42MjggMCAxMiAwem01LjY5NiAxNC45NDNjLTQuMTAzIDQuMTAzLTExLjQzMyAyLjc5NC0xMS40MzMgMi43OTRTNC45NCAxMC40MjEgOS4wNTcgNi4zMDRjMi4yODEtMi4yODEgNi4wNjEtMi4xODcgOC40NS4xODlzMi40NzEgNi4xNjguMTg5IDguNDV6bS00LjMxOS03LjkxbC0xLjE3NCAyLjQxNi0yLjQxNiAxLjE3NCAyLjQxNiAxLjE3NCAxLjE3NCAyLjQxNiAxLjE3NC0yLjQxNiAyLjQxNi0xLjE3NC0yLjQxNi0xLjE3NC0xLjE3NC0yLjQxNnoiLz48L3N2Zz4=" x="5" y="5" width="14" height="14" preserveAspectRatio="xMidYMid meet" />
+  <text x="24" y="10.75" dominant-baseline="central" fill="#f0f6fc" font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif" font-size="11" font-weight="600">Mapbox WebGL</text>
+</svg>

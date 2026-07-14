@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="24" viewBox="0 0 72 24" role="img" aria-label="XState">
+  <title>XState</title>
+  <rect x="0.5" y="0.5" width="71" height="23" rx="4.5" fill="#161b22" stroke="#30363d" />
+  <image href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjQTc4QkZBIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+WFN0YXRlPC90aXRsZT48cGF0aCBkPSJNMTUuODkxIDBoNi4wMjNsLTYuMDg1IDEwLjU2M2MtMS44NTMtMy4zMDUtMS44MjItNy4zMi4wNjItMTAuNTYzem02LjA1NSAyMy45OTlMOC4wNzguMDAxSDIuMDU1bDYuOTE5IDEyLjAxNUwyLjA1NSAyNGg2LjAyM0wxMiAxNy4yMzYgMTUuODkyIDI0eiIvPjwvc3ZnPg==" x="5" y="5" width="14" height="14" preserveAspectRatio="xMidYMid meet" />
+  <text x="24" y="11.63" dominant-baseline="central" fill="#f0f6fc" font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif" font-size="11" font-weight="600">XState</text>
+</svg>

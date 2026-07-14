@@ -9,6 +9,7 @@
 - `a16z-mark.svg` reproduces the compact `a16z` text mark defined by the portfolio's `CompanyMark` component for GitHub's light and dark themes.
 - `animated-ar-logo.gif` is a transparent 160×160, 10-second capture of the portfolio's live `AnimatedARLogoMark` component. It preserves the original outside-in power-up, hold, center-out drain, aura, and mote timing.
 - `stack/*.svg` contains locally stored technology marks downloaded from the Simple Icons CDN and Devicon. `net-http.svg` reuses the Go mark because `net/http` is part of Go's standard library and has no separate brand mark.
+- `lockups/*.svg` combines each mark and label inside one fixed-height coordinate system. The README never aligns a standalone technology or company icon against Markdown text; this prevents GitHub's baseline rules from shifting them independently.
 
 The portfolio scene and animated AR logo are original project assets. Employer and investor marks remain the property of their respective companies and are used only for identification. Keep this directory limited to media used by the GitHub profile README.
 

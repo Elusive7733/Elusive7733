@@ -26,7 +26,7 @@ I have spent five years shipping customer-facing products, backend services, dat
 
 ## Experience
 
-### <img src="./assets/covent-icon.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;[Covent](https://getcovent.com/)
+<h3><a href="https://getcovent.com/"><img src="./assets/lockups/covent.svg" height="28" alt="Covent" /></a></h3>
 
 **Senior Frontend Engineer → Team Lead · 2025–Present**
 
@@ -35,7 +35,7 @@ I have spent five years shipping customer-facing products, backend services, dat
 - Replaced precomputed multi-agent message generation with an on-demand flow, cutting model calls by 96% and monthly spend from about $9,000 to about $700.
 - Cut first-load JavaScript by 26–40% across six routes, including onboarding from 482 to 295 kB and listing campaigns from 808 to 487 kB.
 
-### <img src="./assets/metal-icon.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;[Metal](https://www.metal.so/)
+<h3><a href="https://www.metal.so/"><img src="./assets/lockups/metal.svg" height="28" alt="Metal" /></a></h3>
 
 **Fullstack Engineer · 2024–2025**
 
@@ -44,10 +44,45 @@ I have spent five years shipping customer-facing products, backend services, dat
 - Built a multi-level note-draft system across frontend and backend with Redis persistence and a localStorage fallback.
 - Shipped the Communications Module on deadline and led Frontend 101 sessions for backend engineers on browser rendering, React internals, and Next.js.
 
-<strong>Backed by:</strong> <a href="https://www.ycombinator.com/companies/metal-2"><img src="./assets/ycombinator-logo.png" width="13" height="13" align="absmiddle" alt="" />&nbsp;Y Combinator</a> &nbsp;·&nbsp; <a href="https://speedrun.a16z.com/companies/metal"><img src="./assets/a16z-mark.svg" width="26" height="13" align="absmiddle" alt="" />&nbsp;a16z</a>
+**Backed by**
+
+<p>
+  <a href="https://www.ycombinator.com/companies/metal-2"><img src="./assets/lockups/y-combinator.svg" height="24" alt="Y Combinator" /></a>
+  <a href="https://speedrun.a16z.com/companies/metal"><img src="./assets/lockups/a16z.svg" height="24" alt="a16z" /></a>
+</p>
 
 ## Stack
 
-- **Backend and data:** <img src="./assets/stack/go.svg" width="16" height="16" align="middle" alt="" />&nbsp;Go · <img src="./assets/stack/net-http.svg" width="16" height="16" align="middle" alt="" />&nbsp;`net/http` · <img src="./assets/stack/django.svg" width="16" height="16" align="middle" alt="" />&nbsp;Django · <img src="./assets/stack/postgresql.svg" width="16" height="16" align="middle" alt="" />&nbsp;PostgreSQL · <img src="./assets/stack/redis.svg" width="16" height="16" align="middle" alt="" />&nbsp;Redis · <img src="./assets/stack/nestjs.svg" width="16" height="16" align="middle" alt="" />&nbsp;NestJS
-- **Product engineering:** <img src="./assets/stack/react.svg" width="16" height="16" align="middle" alt="" />&nbsp;React · <img src="./assets/stack/typescript.svg" width="16" height="16" align="middle" alt="" />&nbsp;TypeScript · <img src="./assets/stack/nextjs.svg" width="16" height="16" align="middle" alt="" />&nbsp;Next.js · <img src="./assets/stack/xstate.svg" width="16" height="16" align="middle" alt="" />&nbsp;XState · <img src="./assets/stack/zustand.svg" width="16" height="16" align="middle" alt="" />&nbsp;Zustand · <img src="./assets/stack/mapbox.svg" width="16" height="16" align="middle" alt="" />&nbsp;Mapbox WebGL
-- **Delivery and quality:** <img src="./assets/stack/aws-ec2.svg" width="24" height="16" align="middle" alt="" />&nbsp;AWS EC2 · <img src="./assets/stack/docker.svg" width="16" height="16" align="middle" alt="" />&nbsp;Docker · <img src="./assets/stack/github-actions.svg" width="16" height="16" align="middle" alt="" />&nbsp;GitHub Actions · <img src="./assets/stack/vercel.svg" width="16" height="16" align="middle" alt="" />&nbsp;Vercel · <img src="./assets/stack/sentry.svg" width="16" height="16" align="middle" alt="" />&nbsp;Sentry · <img src="./assets/stack/vitest.svg" width="16" height="16" align="middle" alt="" />&nbsp;Vitest · <img src="./assets/stack/playwright.svg" width="16" height="16" align="middle" alt="" />&nbsp;Playwright
+**Backend and data**
+
+<p>
+  <img src="./assets/lockups/go.svg" height="24" alt="Go" />
+  <img src="./assets/lockups/net-http.svg" height="24" alt="net/http" />
+  <img src="./assets/lockups/django.svg" height="24" alt="Django" />
+  <img src="./assets/lockups/postgresql.svg" height="24" alt="PostgreSQL" />
+  <img src="./assets/lockups/redis.svg" height="24" alt="Redis" />
+  <img src="./assets/lockups/nestjs.svg" height="24" alt="NestJS" />
+</p>
+
+**Product engineering**
+
+<p>
+  <img src="./assets/lockups/react.svg" height="24" alt="React" />
+  <img src="./assets/lockups/typescript.svg" height="24" alt="TypeScript" />
+  <img src="./assets/lockups/nextjs.svg" height="24" alt="Next.js" />
+  <img src="./assets/lockups/xstate.svg" height="24" alt="XState" />
+  <img src="./assets/lockups/zustand.svg" height="24" alt="Zustand" />
+  <img src="./assets/lockups/mapbox.svg" height="24" alt="Mapbox WebGL" />
+</p>
+
+**Delivery and quality**
+
+<p>
+  <img src="./assets/lockups/aws-ec2.svg" height="24" alt="AWS EC2" />
+  <img src="./assets/lockups/docker.svg" height="24" alt="Docker" />
+  <img src="./assets/lockups/github-actions.svg" height="24" alt="GitHub Actions" />
+  <img src="./assets/lockups/vercel.svg" height="24" alt="Vercel" />
+  <img src="./assets/lockups/sentry.svg" height="24" alt="Sentry" />
+  <img src="./assets/lockups/vitest.svg" height="24" alt="Vitest" />
+  <img src="./assets/lockups/playwright.svg" height="24" alt="Playwright" />
+</p>
