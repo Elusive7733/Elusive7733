@@ -36,7 +36,14 @@ I’m a Senior Software Engineer and team lead at Covent, where I lead three eng
       </a>
       <br />
       <strong>Metal</strong><br />
-      <sub>Backed by Y Combinator and a16z</sub>
+      <sub>Backed by</sub><br />
+      <a href="https://www.ycombinator.com/companies/metal-2">
+        <img src="./assets/ycombinator-logo.png" width="30" alt="Y Combinator" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://speedrun.a16z.com/companies/metal">
+        <img src="./assets/a16z-logo.png" width="30" alt="a16z" />
+      </a>
     </td>
   </tr>
 </table>
@@ -62,7 +69,11 @@ I’m a Senior Software Engineer and team lead at Covent, where I lead three eng
 
 <div align="center">
   <a href="https://abdullahraheel.dev/en">
-    <img src="./assets/ar-mark.svg" width="40" alt="Abdullah Raheel monogram" />
+    <img
+      src="./assets/animated-ar-logo.gif"
+      width="96"
+      alt="Animated Abdullah Raheel monogram powering on and off"
+    />
   </a>
   <br />
   <a href="https://abdullahraheel.dev/en"><strong>abdullahraheel.dev</strong></a>
