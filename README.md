@@ -18,54 +18,67 @@
   </p>
 </div>
 
-I’m a Senior Software Engineer and team lead at Covent, where I lead three engineers and work across frontend architecture, Go and Django services, PostgreSQL, AI workflows, and product delivery. Previously, I built data operations, communication, and draft-persistence systems at Metal, an AI fundraising company backed by Y Combinator and a16z.
+I build product, platform, and AI systems across the stack, with a current focus on Go, backend architecture, and systems engineering.
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://getcovent.com/">
-        <img src="./assets/covent-icon.svg" width="48" alt="Covent" />
-      </a>
-      <br />
-      <strong>Covent</strong><br />
-      <sub>Senior Frontend Engineer → Team Lead</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.metal.so/">
-        <img src="./assets/metal-icon.svg" width="48" alt="Metal" />
-      </a>
-      <br />
-      <strong>Metal</strong><br />
-      <sub>Backed by</sub><br />
-      <a href="https://www.ycombinator.com/companies/metal-2">
-        <img src="./assets/ycombinator-logo.png" width="30" alt="Y Combinator" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://speedrun.a16z.com/companies/metal">
-        <img src="./assets/a16z-logo.png" width="30" alt="a16z" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <strong>Currently at</strong>
+  <br /><br />
+  <a href="https://getcovent.com/">
+    <img src="./assets/covent-icon.svg" width="48" alt="Covent" />
+  </a>
+  <br />
+  <strong>Covent</strong><br />
+  <sub>Senior Frontend Engineer → Team Lead</sub>
+  <p>
+    Lead a team of three, own frontend architecture, and ship backend systems, standards, and client onboarding.<br />
+    Built Covent MCP from pitch to production in Go and rendered 100,000 property markers in WebGL.
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <strong>Previously at</strong>
+  <br /><br />
+  <a href="https://www.metal.so/">
+    <img src="./assets/metal-icon.svg" width="48" alt="Metal" />
+  </a>
+  <br />
+  <strong>Metal</strong><br />
+  <p>
+    Owned end-to-end work across data operations, communications, draft persistence, and platform tooling.<br />
+    Delivered the version-controlled DataOps Portal in 20 days and built a multi-level draft system with Redis.
+  </p>
+  <sub>Backed by</sub>
+  <br /><br />
+  <a href="https://www.ycombinator.com/companies/metal-2">
+    <img
+      src="./assets/ycombinator-logo.png"
+      width="24"
+      height="24"
+      align="middle"
+      alt=""
+    />
+    &nbsp;<strong>Y Combinator</strong>
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://speedrun.a16z.com/companies/metal">
+    <img
+      src="./assets/a16z-mark.svg"
+      width="48"
+      height="24"
+      align="middle"
+      alt=""
+    />
+    &nbsp;<strong>a16z</strong>
+  </a>
+</div>
 
 ## Stack
 
 - **Backend and data:** Go, `net/http`, Django, PostgreSQL, Redis, NestJS
 - **Product engineering:** React, TypeScript, Next.js, XState, Zustand, Mapbox WebGL
 - **Delivery and quality:** AWS EC2, Docker, GitHub Actions, Vercel, Sentry, Vitest, Playwright
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://abdullahraheel.dev/en/work">View my work →</a></h3>
-      <p>Production systems, independent builds, and earlier public projects.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://abdullahraheel.dev/en/blog">Read my articles →</a></h3>
-      <p>Case studies on migrations, CI, observability, state, deployment, and AI cost.</p>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <a href="https://abdullahraheel.dev/en">
