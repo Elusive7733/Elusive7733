@@ -20,7 +20,7 @@ I'm Abdullah Raheel, a senior software engineer at [Covent](https://getcovent.co
 
 **Covent MCP, written in Go.** I proposed it and led it to production. 23 read-only tools let Claude, ChatGPT, Codex and Cursor read Covent's data safely, with OAuth 2.0 and PKCE.
 
-**A new frontend, zero downtime.** I moved Covent from Create React App to Next.js while customers kept working in it every day. 170 locations moved over without an outage, with 765 people working in it at the same time, and our heaviest page loads 40% less JavaScript up front.
+**A new frontend, zero downtime.** I moved Covent from Create React App to Next.js while customers kept working in it every day. 170 locations moved over without an outage. 765 people work in it at the same time, and our heaviest page loads 40% less JavaScript up front.
 
 **Search a city by drawing on it.** I rebuilt Investor Prospecting on Mapbox WebGL with live property data. Writing a message only for a buyer you pick cut AI calls by 96% and AI spend from $9,000 to $700 a month.
 
