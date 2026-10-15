@@ -1,55 +1,36 @@
-<div align="center">
-  <a href="https://abdullahraheel.dev/en">
-    <img
-      src="./assets/profile-hero.svg"
-      width="100%"
-      alt="Abdullah Raheel — Senior Software Engineer and Team Lead at Covent. Product, backend, platform, and AI systems."
-    />
-  </a>
+<a href="https://abdullahraheel.dev/">
+  <img src="./assets/banner.png" width="100%" alt="I build AI agents and fast frontends. abdullahraheel.dev" />
+</a>
 
-  <p>
-    <a href="https://abdullahraheel.dev/en/work"><strong>Work</strong></a>
-    ·
-    <a href="https://abdullahraheel.dev/en/blog"><strong>Writing</strong></a>
-    ·
-    <a href="https://abdullahraheel.dev/en"><strong>Portfolio</strong></a>
-    ·
-    <a href="https://linkedin.com/in/abdullahraheel">LinkedIn</a>
-    ·
-    <a href="mailto:abdullaharaheel@gmail.com">Email</a>
-  </p>
-</div>
-
-## About
-
-I have spent five years shipping customer-facing products, backend services, data systems, live migrations, and infrastructure. I currently lead a team of three at Covent while moving deeper into Go, backend architecture, and systems engineering.
-
-## Experience
-
-<h3><a href="https://getcovent.com/"><img src="./assets/lockups/covent.svg" height="28" alt="Covent" /></a></h3>
-
-**Senior Frontend Engineer → Team Lead · 2025–Present**
-
-- Lead and mentor three engineers as frontend code owner, reviewing product and architecture work while remaining hands-on in the codebase.
-- Proposed and led Covent MCP from idea to production: 23 read-only Go tools with OAuth 2.0 and PKCE, PostgreSQL state, analytics, and EC2 delivery.
-- Replaced precomputed multi-agent message generation with an on-demand flow, cutting model calls by 96% and monthly spend from about $9,000 to about $700.
-- Cut first-load JavaScript by 26–40% across six routes, including onboarding from 482 to 295 kB and listing campaigns from 808 to 487 kB.
-
-<h3><a href="https://www.metal.so/"><img src="./assets/lockups/metal.svg" height="28" alt="Metal" /></a></h3>
-
-**Fullstack Engineer · 2024–2025**
-
-- Owned end-to-end work across data operations, communications, draft persistence, frontend education, and platform tooling.
-- Delivered a version-controlled DataOps Portal in 20 days with arbitrary table rendering, snapshots, field-level overrides, and relational data.
-- Built a multi-level note-draft system across frontend and backend with Redis persistence and a localStorage fallback.
-- Shipped the Communications Module on deadline and led Frontend 101 sessions for backend engineers on browser rendering, React internals, and Next.js.
-
-**Backed by**
-
-<p>
-  <a href="https://www.ycombinator.com/companies/metal-2"><img src="./assets/lockups/y-combinator.svg" height="24" alt="Y Combinator" /></a>
-  <a href="https://speedrun.a16z.com/companies/metal"><img src="./assets/lockups/a16z.svg" height="24" alt="a16z" /></a>
+<p align="center">
+  <a href="https://abdullahraheel.dev/"><strong>Portfolio</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/abdullah-raheel/">LinkedIn</a>
+  ·
+  <a href="mailto:abdullaharaheel@gmail.com">Email</a>
 </p>
+
+I'm Abdullah Raheel, a senior software engineer at [Covent](https://getcovent.com/), where I lead a team of three and build our AI agents. Before that, [Metal](https://www.metal.so/) (YC W23).
+
+## At Covent
+
+**Sam buys. Alex sells. Nora coordinates.** Polaris is the AI agent platform I lead. Three agents run over SMS, email and Slack, and every message is checked before it sends. I own the backend (Django, PostgreSQL, Celery and Redis on AWS) and the Next.js operator app. 20K messages a day go through it today.
+
+**Every inbound text lands.** I rebuilt GoHighLevel webhook intake as a serverless pipeline (API Gateway, Lambda, SQS and S3), and delivery rose from 49% to 99.8% within three days.
+
+**Covent MCP, written in Go.** I proposed it and led it to production. 23 read-only tools let Claude, ChatGPT, Codex and Cursor read Covent's data safely, with OAuth 2.0 and PKCE.
+
+**A new frontend, zero downtime.** I moved Covent from Create React App to Next.js while customers kept working in it every day. 170 locations moved over without an outage. 765 people work in it at the same time, and our heaviest page loads 40% less JavaScript up front.
+
+**Search a city by drawing on it.** I rebuilt Investor Prospecting on Mapbox WebGL with live property data. Writing a message only for a buyer you pick cut AI calls by 96% and AI spend from $9,000 to $700 a month.
+
+## Before Covent
+
+**Metal (YC W23)**, fullstack engineer, 2024 to 2025. I shipped the DataOps portal in 20 days and built a versioned pipeline for 2M+ records that cut upstream errors by 80%.
+
+**Bleed AI**, software engineer, 2023 to 2024. I built UpAutomate, which scores Upwork jobs with an LLM, and took it to 150 trial users.
+
+**Workforce Software**, software engineer, 2022 to 2023. Time and attendance systems for Canon, Ornge and National Gypsum.
 
 ## Stack
 
